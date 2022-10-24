@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🤠@capshook
+### Pirate Rust Cheat:
+- ⚡️ Unique Functional
+- 🍀 One Step Ahead Of The Game
+- 🚀 Fast Inject Method
 
-<!--
-**capshook/capshook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer Contacts
+[VK](https://vk.com/awpking2018)
+[Discord](flip#8277)
+[Telegram](https://flipdes)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Group Contacts
+[VK GROUP](https://vk.com/capshook)
