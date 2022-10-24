@@ -5,9 +5,7 @@
 - 🚀 Fast Inject Method
 
 ### Developer Contacts
-[VK](https://vk.com/awpking2018)
-[Discord](flip#8277)
-[Telegram](https://flipdes)
+[Telegram](https://t.me/flipdes)
 
 ### Group Contacts
 [VK GROUP](https://vk.com/capshook)
